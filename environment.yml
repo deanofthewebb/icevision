@@ -13,6 +13,4 @@ dependencies:
   - fastai >=2.5.2
   - pip
   - pip:
-      - icevision[all]==0.13
-      - mmcv-full
-      - mmdet
+      - icevision[all]
