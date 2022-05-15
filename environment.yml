@@ -13,7 +13,7 @@ dependencies:
   - fastai >=2.5.2
   - pip
   - pip:
-      - icevision[all]==0.12.0rc1
-      - --find-links https://download.openmmlab.com/mmcv/dist/cu102/torch1.10.2/index.html
+      - icevision[all]==0.13
+      - --find-links https://download.openmmlab.com/mmcv/dist/cu111/torch1.10.2/index.html
       - mmcv-full==1.3.17
       - mmdet
